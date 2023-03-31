@@ -1,6 +1,6 @@
 Name:		texlive-libertinus-fonts
 Version:	57948
-Release:	1
+Release:	2
 Summary:	The Libertinus font family
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinus-fonts
