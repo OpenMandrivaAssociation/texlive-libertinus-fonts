@@ -3,7 +3,7 @@ Version:	72339
 Release:	1
 Summary:	The Libertinus font family
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinus-fonts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/libertinus-fonts
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinus-fonts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/libertinus-fonts.doc.r%{version}.tar.xz
