@@ -1,5 +1,5 @@
 Name:		texlive-libertinus-fonts
-Version:	72339
+Version:	72484
 Release:	1
 Summary:	The Libertinus font family
 Group:		Publishing
